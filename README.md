@@ -25,3 +25,19 @@ d. Describe the steps to add a collaborator to a repository (share write permiss
 3. Navigate to "Collaborators & teams."
 4. Enter the collaborator's GitHub username and click "Add collaborator."
 5. The collaborator will receive an invitation to join the repository.
+
+e. What is the difference between Git and GitHub?
+->
+Git is a version control system that manages and tracks changes to files in a project. GitHub is a web-based platform that hosts Git repositories and provides additional collaboration features.
+
+f. What does git diff do?
+->
+git diff shows the differences between the changes in your working directory and the last commit. It helps you see what has been modified before committing the changes.
+
+g. What is the main branch?
+->
+The main branch is the default branch in a Git repository, where the stable, production-ready code is usually stored.
+
+h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+->
+No, it's best practice to create a new branch for any changes or new features. This allows for better management and review before merging into the main branch.
