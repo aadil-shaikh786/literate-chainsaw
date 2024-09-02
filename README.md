@@ -1,4 +1,13 @@
 Hello, Welcome To My Empty Respository
 
-a. What is an Issue?
-GitHub Issues are items you can create in a repository to plan, discuss and track work. Issues are simple to create and flexible to suit a variety of scenarios
+a. What is an issue?
+-> 
+An issue is a way to track work, bugs, enhancements, or tasks in a project repository.
+It allows team members to discuss and manage work within a GitHub repository.
+
+b. What is a pull request?
+-> 
+A pull request is a way to propose changes to a repository. 
+It allows developers to review and discuss the changes before they are merged into the main branch.
+
+
